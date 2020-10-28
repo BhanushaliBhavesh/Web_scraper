@@ -1,1 +1,1 @@
-# Web_scraper
+# basic web scraper for job serach
